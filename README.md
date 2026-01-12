@@ -24,3 +24,5 @@ berikut adalah akses dokumen Laporan validasi dan bukti lapangan: https://docs.g
 2. Akses Perhitungan keuangan lengkap : https://docs.google.com/spreadsheets/d/1Zopb_2oAa9M_z36lQHOo4Ng6d9WUykXW0tNAabbgEGY/edit?usp=sharing
 
 3. Akses Dokumen Draft legal dan term of service: https://docs.google.com/document/d/1IRTcqOERygYbv4roCItmkYo-WLZEmrB6C580vvxGee0/edit?pli=1&tab=t.0
+
+4. Akses Video pitching: https://youtu.be/KBH354uTk4E
